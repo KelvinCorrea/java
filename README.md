@@ -1,2 +1,0 @@
-# java
-Aprendendo sobre Java
